@@ -1,104 +1,104 @@
                             body{
                             	 position: relative;
                             	 margin-top:45px;
-                            	  margin-left: 200px;
+                            	 margin-left: 200px;
 }
 
-                                         .put{                                    
-                                         width:80%;
-										border: 1px solid #80808008;
-										width: 845px;
-										height: 350px;
-										margin-left: 45px;
-										background-color:#8080803b;
-										background-size: cover;
-										position: inherit;
+                             .put{                                    
+                                  width:80%;
+				  border: 1px solid #80808008;
+				  width: 845px;
+				  height: 350px;
+				  margin-left: 45px;
+				  background-color:#8080803b;
+				  background-size: cover;
+				  position: inherit;
 }
                                 .row{
-	                                  top:0px;
-	                                  width:73%;
-	                                  margin-left:45px;
-	                                  position: inherit;
-	                                  height:50px;
-	                                  border:2px solid #7d2e2c;
-	                                  background-color: #7d2e2c;
+	                              top:0px;
+	                               width:73%;
+	                               margin-left:45px;
+	                               position: inherit;
+	                               height:50px;
+	                               border:2px solid #7d2e2c;
+	                               background-color: #7d2e2c;
 }
-			                         code{
-                                     	  background-color:#7d2e2c;
-                                          color:white;
-                                        font-family: sans-serif;
-                                        font-size:11px;
+			        code{
+                                      background-color:#7d2e2c;
+                                      color:white;
+                                      font-family: sans-serif;
+                                      font-size:11px;
 }
-                                     #style{ 
-										width:13px; 
-										float: right;
-										margin-right:200px;
-										margin-top:-25px;
-										border:none;
-									    border-radius: none;
-										background-color:#7d2e2c;
-										background-size: contain;
+                              #style{ 
+				     width:13px; 
+				     float: right;
+				    margin-right:200px;
+				    margin-top:-25px;
+				    border:none;
+				    border-radius: none;
+				    background-color:#7d2e2c;
+				    background-size: contain;
 }
-							.tweeter{
-									  width: 15px;
-									  position:relative; 
-									 float:right;
-									 border:none;
-									 margin-top:-25px;
-									 margin-right: 150px;
-									 color: green;
+		        .tweeter{
+				  width: 15px;
+				  position:relative; 
+				  float:right;
+				  border:none;
+				  margin-top:-25px;
+				  margin-right: 150px;
+				  color: green;
 }
-							 .linkedin{
-										width:13px; 
-									   float: right;
-									   border:none;
-									  margin-top: -25px;
-									  margin-right: 100px;
-									  color: #7d2e2c;
+		   .linkedin{
+			      width:13px; 
+			      float: right;
+			      border:none;
+			      margin-top: -25px;
+			      margin-right: 100px;
+			      color: #7d2e2c;
 }
-							    .instagram{ 
-										    width: 20px; 
-											float: right;
-										    margin-top:-25px;
-										    background-color: #7d2e2c;
-											border: none;
-										     margin-right: 50px;
+		.instagram{ 
+			    width: 20px; 
+			    float: right;
+			    margin-top:-25px;
+			    background-color: #7d2e2c;
+			    border: none;
+			    margin-right: 50px;
 }
-                                       #signin{
-	                                    width:8%;
-										margin-left:250px;
-										margin-top:5px;
-										background-color:#0d5fa7e8;
-										color: grey;
-										font-size: 12px;
-										word-spacing: 4px;
-										letter-spacing: 2px;
-										font-family: sans-serif;
-										border:none;
-										border-radius: 3px;
+				  #signin{
+					  width:8%;
+					  margin-left:250px;
+					  margin-top:5px;
+					  background-color:#0d5fa7e8;
+					  color: grey;
+					  font-size: 12px;
+					  word-spacing: 4px;
+					  letter-spacing: 2px;
+					  font-family: sans-serif;
+					  border:none;
+					  border-radius: 3px;
 
 }
-                                    a[id]{
-										  bottom: 20px;
-										  right: 50px;
-										  color: red;
+                                  a[id]{
+					 bottom: 20px;
+					right: 50px;
+				        color: red;
 										  
 }
-									.class{
-									        display: flex;
-									        justify-content:center;
-									        flex-direction: row;
-									        height: 5px;
-									        margin-left: 550px;
-									        margin-top:0px;
-									        color: #c32929bf;
-									        font-size: 12px;
+					.class{
+						display: flex;
+						justify-content:center;
+						flex-direction: row;
+						height: 5px;
+						margin-left: 550px;
+						margin-top:0px;
+						color: #c32929bf;
+					        font-size: 12px;				
 }
-									#copy{
-										  margin-left:12cm;
-										  color:#c32929bf;
+					#copy{
+					       margin-left:12cm;
+					       color:#c32929bf;
 }
-                                   .code{
+                                       .code{
                                    	     border:2px solid #7d2e2c;
                                    	     width:73%;
                                    	     margin-left: 42px;
@@ -114,7 +114,7 @@
                                      	      margin-top: 90px;
                                      	      margin-left:250px;
 }
-                                   #label{
+                                      #label{
                                    	     font-family: sans-serif;
                                    	     color: grey;
                                    	     margin-top:0px;
